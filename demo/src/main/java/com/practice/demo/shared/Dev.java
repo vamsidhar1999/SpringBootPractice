@@ -1,5 +1,6 @@
-package com.practice.demo;
+package com.practice.demo.shared;
 
+import com.practice.demo.Vehicle;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;

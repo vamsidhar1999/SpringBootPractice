@@ -1,5 +1,6 @@
-package com.practice.demo;
+package com.practice.demo.shared;
 
+import com.practice.demo.Vehicle;
 import org.springframework.stereotype.Component;
 
 @Component
